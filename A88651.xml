@@ -1,0 +1,1024 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The quacking mountebanck or The Jesuite turn'd Quaker. In a witty and full discovery of their production and rise, their language, doctrine, discipline, policy, presumption, ignorance, prophanes, dissimulation, envy, uncharitablenes, with their behaviours, gestures, aimes and ends. All punctually handled and proved, to give our country men timely notice to avoid their snares and subtile delusions, ... / By one who was an eye and ear witnesse of their words and gestures in their new hired great Tavern Chappell, or the Great Mouth within Aldersgate.</title>
+            <author>Lupton, Donald, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88651</idno>
+            <idno type="STC">Wing L3493</idno>
+            <idno type="STC">Thomason E840_4</idno>
+            <idno type="STC">ESTC R207470</idno>
+            <idno type="EEBO-CITATION">99866519</idno>
+            <idno type="PROQUEST">99866519</idno>
+            <idno type="VID">168161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168161)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 127:E840[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The quacking mountebanck or The Jesuite turn'd Quaker. In a witty and full discovery of their production and rise, their language, doctrine, discipline, policy, presumption, ignorance, prophanes, dissimulation, envy, uncharitablenes, with their behaviours, gestures, aimes and ends. All punctually handled and proved, to give our country men timely notice to avoid their snares and subtile delusions, ... / By one who was an eye and ear witnesse of their words and gestures in their new hired great Tavern Chappell, or the Great Mouth within Aldersgate.</title>
+                  <author>Lupton, Donald, d. 1676.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.B. at the Angell in Pauls-Church-Yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 24."; "written by Mr Lupton A Daniel".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168161:1" rendition="simple:additions"/>
+            <p>THE QUACKING MOUNTEBANCK OR The JESUITE turn'd QUAKER. In a witty
+and full Diſcovery of their <hi>Product<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and <hi>Riſe,</hi> their <hi>Language, Doctrine,
+Diſcipli<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Policy, Preſumption,
+Ignorance, Prophanes, Disſimulat<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+Envy, <g ref="char:V">Ʋ</g>ncharitablenes,</hi> with their Behaviours, Geſtu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Aimes and Ends. All punctually handled
+and proved, to give our Coun<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> men
+timely Notice to avoid their Snares and ſub<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Deluſions,</p>
+            <q>
+               <hi>Simulata Sanctitas Duplicata Iniquitas.</hi>
+            </q>
+            <p>BY ONE WHO WAS AN EYE AND EA<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> WITNESSE of their Words and Geſtures in their
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hired great Tavern Chappell, Or
+the Great <hi>Mouth</hi> within <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>derſgate.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. B.</hi> at the <hi>Angell</hi>
+in <hi>Pauls-Church-Yard,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168161:2"/>
+            <pb n="3" facs="tcp:168161:2"/>
+            <head>THE QUACKING MOUNTEBANCK. OR The JESUITE turn'd QUAKER.</head>
+            <div type="introduction">
+               <epigraph>
+                  <q> 
+                     <p>And they ſhall ſay, have we not propheſied in thy Name,
+but he ſhall ſay, Depart, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>I know you not,</hi> &amp;c.</p>
+                     <bibl>Matth.
+7.22.23.</bibl>
+                  </q>
+                  <q> 
+                     <p>Who hath <hi>required theſe things at your
+Hands,</hi>
+                     </p>
+                     <bibl>Iſay 1.12.</bibl>
+                  </q>
+                  <q> 
+                     <p>I ſent <hi>them</hi> not ſaith the Lord</p>
+                     <bibl>Jer.
+27.15.</bibl>
+                  </q>
+                  <q> 
+                     <p>When they ſhall ſay unto you, loe here is Chriſt, or
+there, beleive them not.</p>
+                     <bibl>Matth. 24.23. Mar. 13.21.</bibl>
+                  </q>
+                  <q> 
+                     <p>For Sathan himſelf is transformed into an Angell of Light it
+is no great thing If his <hi>Miniſters alſo be transformed, as,</hi>
+&amp;c.</p>
+                     <bibl>2 Cor. 11.14.15.</bibl>
+                  </q>
+                  <q> 
+                     <p>They would <hi>deceive the very Elect,</hi>
+&amp;c</p>
+                     <bibl>Mar. 13.22.</bibl>
+                  </q>
+                  <q> 
+                     <p>The Enemy came and ſowed Tares, <hi>&amp;c.</hi> Then
+appeared the Tares alſo, <hi>&amp;c.</hi> Sr. from whence hath it Tares, he
+ſaid an enemy</p>
+                     <bibl>Mat. 13.25.26.27.</bibl>
+                  </q>
+                  <q> 
+                     <p>Beware of falſe Prophets which come to you in ſheeps
+cloathing,</p>
+                     <bibl>Mat 7 15</bibl>
+                  </q>
+                  <q> 
+                     <p>Who ſhall perſwade <hi>Ahab?</hi> and one ſaid I will,
+and the Lord ſaid how? and he ſaid, I will go and be a lying Spirit in the
+mouth of all his Pro<g ref="char:EOLhyphen"/>phets, and the Lord ſaid, thou ſhalt prevail, go forth
+and do ſo,</p>
+                     <bibl>1 King 22.20. <hi>&amp;c.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>HESE ſeverall Texts of Holy Scripture are pla<g ref="char:EOLhyphen"/>ced in the
+Frontiſpeice to ſtand as a Cloud of Wit<g ref="char:EOLhyphen"/>neſſes againſt theſe
+Heathniſh people, who ſo much deſpiſe and reject all Books and
+Learning, and who do, as much as they can, caſt the Councill of our Saviour
+Chriſt behind them, who hath ſayd, <hi>Search the Scriptures, for they
+teſtifie of Me,</hi> and alſo of the Prophet <hi>David,</hi> who in
+<hi>Pſalm.</hi> 1. ſayes, <hi>That the man is bleſt who meditates in the
+Law of the Lord day and night,</hi> yet theſe who are ſuch Quakers and 
+<pb n="4" facs="tcp:168161:3"/>Tremblers fear not to ſpeak evill of Dignities, and not
+only refuſe to ſub<g ref="char:EOLhyphen"/>mit to Magiſtracy and Dignities on Earth but to reject
+even Gods Sacred word it ſelf, but not to withold the Reader from what we
+promiſed, we ſhall come ſuccinctly, &amp; truly to deſcribe this
+<hi>Herd</hi> of ſtrange beaſts lately come amongſt us. and firſt
+concerning,</p>
+            </div>
+            <div type="section">
+               <head>THEIR PROD<g ref="char:V">Ʋ</g>CTION AND RISE.</head>
+               <p>Theſe Creatures cannot much boaſt of <hi>Antiquity;</hi>
+they cannot ſurely pretend much to Gentility, for they are not of
+<hi>Welch</hi> Extraction; they ſcarce know the <hi>Heraulds</hi> Office, nor
+did they come in with the <hi>Con<g ref="char:EOLhyphen"/>querour:</hi> They are much like to
+Muſhrooms and Toad-ſtools ſpringing up in a night; they are ſurely like
+to <hi>Jonas</hi> Gourd in one particular, which came up ſpeedily, and moſt
+wiſh that they might decay as ſudden<g ref="char:EOLhyphen"/>ly; they are the Lapwings of theſe
+times, run about with their ſhels on their heads, they hate idleneſs, for
+they put themſelves to work as ſoon as they are whelped, <hi>Running to and
+fro about the City:</hi> They may be ſome kin unto French Taylors, delighting
+to be in the laſt and neweſt faſhion; it may truly be verified of them,
+we are but <hi>of yeſterday and know nothing,</hi> they have their Riſe not
+from men, but beaſts, and thoſe not tame but wild by nature, from a
+<hi>Fox,</hi> who was of late kennneld, but now he and his whole Litter are
+abroad, and therefore tis fit they ſhould be ſtoutly hunted: Their Actions
+ſhow them to be true <hi>Foxes</hi> as <hi>Samp<g ref="char:EOLhyphen"/>ſons</hi> were, running and
+whisking about our Land with Firebrands of Se<g ref="char:EOLhyphen"/>dition and Diſſention at
+their tayles to ſpoile the good Corne; Foxes, they are for they live all upon
+preying, tis wiſhd that <hi>Salomons</hi> adviſe might be followed,
+<hi>Take us the Foxes, the little Foxes that ſpoil the grapes,</hi> tis
+thought and not improbably, that theſe were whelped in the Kennell of
+<hi>Ignatius Loyola</hi> the Jeſuite, in the Roman Territories, and are now
+run over hither for forrage and booty: their Riſe is ignoble and beaſt<g ref="char:EOLhyphen"/>ly,
+but tis not to be doubted, but they will quickly increaſe and augment,
+becauſe they couple twice or thrice every week, and have now hired a large
+ſtrong kennell to practiſe in, where any one, if he pleaſe, may hear
+their open mouthes bark out great ſwelling Non-ſence at the ſign of the
+<hi>Great mouth</hi> within <hi>Alderſgate,</hi> which houſe has had
+ſtrange Maſters, once twas a Pallce for a Noble man, another time a place
+for a Printer, next for a Vintner, then for a Cook, and at preſent a great
+den for ſubtill <hi>Foxes.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="5" facs="tcp:168161:3"/>
+               <head>THEIR LANG<g ref="char:V">Ʋ</g>AGE AND DISCIPLINE.</head>
+               <p>Theſe two are joyned together, becauſe they help one the
+other, for as their Language is too great, ſo is their Diſcipline too
+little, and yet they may be well ſeperated, for their Language is without any
+diſci<g ref="char:EOLhyphen"/>pline at all, they are no Souldiers, for they obſerve no Orders, they
+do <hi>Potius Latrare quàm Orare,</hi> rather houle or bark, then preach
+or pray; yet as ſubtill as they are, they are no Conjurers, for they love not
+to keep within <hi>Compaſſe,</hi> their Language is as wild as their
+Nature, neither keeps time, method nor matter; they ſeem tobe enemies to all
+Muſick for they keep no <hi>Stops,</hi> and yet they may have ſome skill in
+it, for they run upon <hi>Diviſions and Quavers,</hi> Prick-ſong pleaſes
+them, for they ſqueale above <hi>Elah,</hi> and are excellent at the Baſe:
+they ſhould have skill in Geometry, for they'l compaſs the Land to gain
+Proſelites and the moſt, if not all of them meaſure it by the foote,
+having not horſes to ride, without all doubt they have ſome experience in
+<hi>Aſtronomy,</hi> for moſt of them are <hi>Lunatick</hi> or <hi>Planet
+ſtruck,</hi> their Language aimes at the new Building of old <hi>Babel</hi>
+fortheir babling and bawling tends all to Con<g ref="char:EOLhyphen"/>fuſion; we may ſafely ſay
+that theſe Creatures were not borne Tongue<g ref="char:EOLhyphen"/>tyed, they are ſo voluble,
+though they give ſuch Licenſe to their tongues yet they do it without
+Licenſe, neither ever had they the gift of Tongues, their Language is not
+ſubſtantial but frothy, for they foam at the Mouth whilſt they prate:
+<hi>Salomon</hi> ſayes, <hi>That a man full of words ſhall not
+proſper</hi> &amp; then ſurely theres no fear that any of this Litter will
+come to be <hi>Alder<g ref="char:EOLhyphen"/>men:</hi> though they talk and prate of Great Matters, yet
+tis no great matter what they ſay, if in a multitude of words there muſt
+needs be ſin, then que<g ref="char:EOLhyphen"/>ſtionleſs theſe are not yet all Saints: they
+have little or no faith, for they never keep their words, they affect no
+<hi>
+                     <g ref="char:V">Ʋ</g>nion,</hi> and yet they never uſe Diviſion in their Text. Their
+Language is harder either then Welch or Wild Iriſh, their perſons and
+Tongues are alike, for both defie Magi<g ref="char:EOLhyphen"/>ſtrates and Miniſters. A man may
+eaſier bind up a Buſhel of Sand in a hal<g ref="char:EOLhyphen"/>ter, then carry away four or five
+hours of their illitterate non-ſence and confuſed babling. In breif, their
+Language is too irreverent for a Tem<g ref="char:EOLhyphen"/>ple, and too uncivill for a Tavern, yet
+ſuch Tongues there are <hi>at the ſign of the Mouth.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>THEIR DOCTRINE.</head>
+               <p>Our Saviour was ſtrictly examined concerning his Diſciples
+and his<pb n="6" facs="tcp:168161:4"/>Doctrine, and if He, why ſhould not theſe; theſe
+cry up as much they can <hi>Light Liberty,</hi> and tis known they aim at
+lightneſs of Liberty, they cry that all men want Light, and if they ſhould
+be weighed in the ballance they would be found too <hi>Light,</hi> while they
+prate of Liberty, they take too much liberty, while they wiſh others to get
+Liberty, they abuſe their Liberty, while they ſpeak of Light, they love the
+Dark, and their bau<g ref="char:EOLhyphen"/>ling in the light, of the light, is enough to extinguiſh
+it; they are Liber<g ref="char:EOLhyphen"/>tines, and therfore muſt alſo be light fellowes, now and
+then they in<g ref="char:EOLhyphen"/>terline a word that the Grace of God hath appeared, though they do
+it without any Grace, and never make it out to their confuſed Auditory to
+what end or purpoſe, They teach their ſhe Diſciples to whine, and their
+Hees to houle, any of them take upon them to talk, though no<g ref="char:EOLhyphen"/>thing to
+purpoſe, their Doctrine and principles are all unſtated, for themſelves
+know not what they are, and untill the next pretended inſpi<g ref="char:EOLhyphen"/>ration, are like
+hogſheads, empty; they are like <hi>Ruben</hi> unſtable as water, and to
+keep up their Bawling with boldneſſe and impudence; they rail againſt
+Preiſts and Levites, though themſelves be of the Tribe of <hi>Gad</hi> or
+Many-aſſes: They allow no Magiſtrates, not becauſe they are not
+allowable, but becauſe they are not of their Brother-hood, their Doctrine is
+weak and full of Ignorance, for they were never tutored, nor will ever endure
+ſound Learning, they are no freinds to the Com<g ref="char:EOLhyphen"/>pany of Stationers, for they
+are more blockiſh, then bookiſh: Tis doub<g ref="char:EOLhyphen"/>ted by moſt, that ſhould they
+receive their wages for their work, twould be a halter, for they would ſcorn
+the benefit of their Clergy; becauſe they hate them ſo deeply, and would
+not be able to read their Neck-ver<g ref="char:EOLhyphen"/>ſes. Their Doctrine is as the Apoſtle
+ſayes, <hi>The Doctrine of Devills,</hi> they are the lateſt ſpawn and
+fry of <hi>Rome,</hi> and tis pitty, they ſhould have ſuch large Roome to
+build up old <hi>Rome</hi> within the walls of our <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> but to
+proceed.</p>
+            </div>
+            <div type="section">
+               <head>4. THEIR POLLICY.</head>
+               <p>THis they have and uſe naturally, all Foxes are ſubtile, go
+tell that ſubtile Fox, ſayes our Saviour of <hi>Herod,</hi> but yet theſe
+heighten their Nature by practiſe and experience. See this in ſome
+particulars, they come not far abroad till they be able to traverſe and find
+their game, in ſtormy weather, they keep cloſe in their Dens, Kennells, and
+hiding holes, for fear of being ruined for their boldneſſe: How many ſuch
+dens and kennells of theſe beaſtly creatures does that old Fox keeper of
+<hi>Rome</hi> keep fill'd, as Seminaries, Cloyſters, Fryeryes, Monaſteries,
+Nunne<g ref="char:EOLhyphen"/>ries,<pb n="7" facs="tcp:168161:4"/>Abbyes, Prioryes lined full of ſuch Foxes old
+and young, which (as occaſion ſerves upon all advantagious oportunities are
+let looſe and ſent abroad to prey under various Names, Titles, Orders,
+Degrees, under all pretended out ſides and ſhapes of Sanctimony and gifts,
+and Revelations and Inſpirations: Their ſly diſguiſed creeping forth
+amongſt us, vaild with the ſmooth Umbrages of Meſſages from God, of
+Di<g ref="char:EOLhyphen"/>ctares from the Holy Ghoſt, of Immediate and Infall be Inſpirings, how
+have thoſe guilded and guilful Pills ſwallowed down ignorantly, wrought
+bitter effects and ſad Concluſions: Their zealous and extraordinary
+ap<g ref="char:EOLhyphen"/>petite to devoure under theſe palliated termes of Converſion, New birth
+new Light, Spirituall Gifts, heavenly Endowments how do they de<g ref="char:EOLhyphen"/>vour young
+game, ſuch as are not wiſe enough to ſhun and avoid theſe pretended
+holy and mortified Creatures: Is not their policy deep and great, when partly
+by fair ſpeeches, ſpecious preſents, pretended In<g ref="char:EOLhyphen"/>fuſions of Grace,
+long prayers, outward humility, wreſting of Scrip<g ref="char:EOLhyphen"/>tures, application of
+Propheſies long ſince accompliſhed only to them<g ref="char:EOLhyphen"/>ſelves in theſe
+dayes, eſpecially that Eminent Text in <hi>Joel, It ſhall come to paſſe
+in the last dayes that I will pour out my Spirit upon all fleſh,</hi> though
+the Apoſtle <hi>Peter</hi> ſaies <hi>Act</hi> 2. this Scripture was then
+fulfilled in his time yet theſe hold out, it is to them, to them only who are
+ſent from God, inſpired by God and his Spirit, hereupon they pretend
+Raptures, Exta<g ref="char:EOLhyphen"/>ſies, Swounings, Swellings, Groanings, Tumblings, and
+Proſtrations, Skreekings, Murmurings, Trances, Senſible feelings, and
+Manifeſta<g ref="char:EOLhyphen"/>tions of Gods Spirit coming into them; and in this politick
+phrenſie; they pretend they have him, he is now within them, and ſo muſt
+ſpeak, and muſt only be heard, as ſent by God to give Commands,
+Directions; and Adviſoes to the great Ones of the earth, theſe boaſt
+themſelves to be the favourites of Heaven, that all but themſelves are in
+darkneſſe, in bondage in corruption, that they know the mind of Chriſt,
+to theſe glori<g ref="char:EOLhyphen"/>ous politick pretexts, they have added of late, outward
+poverty, voluntary humiliation, ſimple and ſhameleſſe nakedneſſe,
+extream penance, ſuper<g ref="char:EOLhyphen"/>ſtitious abſtinence, poor habit, mean fare, hard
+lodging; refraining of acquaintance, leaving their Trades and callings,
+affecting ſolitarineſſe, ſullenneſſe, bitterneſſe, with a
+ſeeming renouncing of all worldly prefer<g ref="char:EOLhyphen"/>ments and pleaſures and profits,
+with diverſe other ſuch Antiquated and popiſh trinkets and trumpery
+revived, and then as their ſpirit of Deluſi<g ref="char:EOLhyphen"/>on ſuggeſts, they muſt
+diſguiſe themſelves and pretend ſome ſpeciall pe<g ref="char:EOLhyphen"/>remptory meſſage
+to <hi>White-Hall,</hi> to give extraordinary Informations, Injunctions or
+Directions (as they pretend) from the Lord. and if not forthwith admitted, then
+preſently they give out, that all our preſent<pb n="8" facs="tcp:168161:5"/>Governours
+are naught ungodly and Antichriſtian, becauſe they did not receive theſe
+Imperious <hi>Dictates</hi> from Gods Saints &amp; Gods Prophets (if you
+pleaſe to credit them) Theſe are ſome of thoſe many <hi>Fox</hi>-like
+tricks of policy they dayly practiſe to gain Admiration, O ſubtill
+<hi>Renard!</hi> to get ſuch footing in ſo ſhort a time, but to go on,
+the next is.</p>
+            </div>
+            <div type="section">
+               <head>5 THEIR PRES<g ref="char:V">Ʋ</g>MPTION.</head>
+               <p>THey have made their foreheads as hard as an Adamant, blu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſh they will not, they are ſo
+impudent; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ſt not preſumption
+to exclude all o<g ref="char:EOLhyphen"/>thers from Communion with God, and only include themſelves?
+to aſ<g ref="char:EOLhyphen"/>ſume an Office ſo high, without any lawfull Commiſſion? to run
+furi<g ref="char:EOLhyphen"/>ouſly not being ſent? to preſſe impudently into the Wedding roome
+not being calld, nor having on a Wedding Garment? to ſit the higheſt with
+out the leave of the maſter of the Feaſt? to undertake to teach others who
+were never learned themſelves? to impropriate that to themſelves, which is
+denyed to none? to brag of the aſſurance of Gods favour to them<g ref="char:EOLhyphen"/>ſelves
+and that rather merited then given freely, and to debar all o<g ref="char:EOLhyphen"/>thers from it? to
+eſteem all others as droſſe, and themſelves the pure gold? they are
+much like theives that ſteal and take away other mens Goods, but at laſt
+hang for it, they are like to <hi>Froth cork,</hi> and <hi>black ſoape,</hi>
+ſtrive to be uppermoſt, they as thoſe wicked ones in <hi>Pſal.</hi> 12.
+ſay, <hi>Our tongues are our own, who is Lord over <g ref="char:V">Ʋ</g>s,</hi> they preſume
+all our Ma<g ref="char:EOLhyphen"/>giſtrates are aſleep, and ſo they may play their pranks, Other
+mens In<g ref="char:EOLhyphen"/>dulgency and forbearance ſets them on float, they are worſe then
+the Scribes and Phariſees, for though they ſate in <hi>Moſes</hi> chair,
+yet that place belonged to them: but theſe rail at all that are lawfully in
+it; and take it to themſelves, they hold all to be black but themſelves,
+ſurely they are pur<g ref="char:EOLhyphen"/>blind for they looke not on any man aright, they would
+perſwade men that none live in the ſun but themſelves, nor are worthy of
+it becauſe not of their <hi>New-found Land way;</hi> they are much like
+<hi>Icarus,</hi> will be flying though it be with waxen wings, and be drowned;
+or like <hi>Phaeton,</hi> will be in the Chariot of State, though they break
+their necks in the concluſion, They give our, their care is ſo much for
+Heaven, that they give no reſpect to men upon Earth; One would take them to
+be good fellowes, for they make all, and account the beſt of men ſcarce
+their fellowes, they are much like to flyes and gnats, play ſo buſily about
+the Candle, till at laſt they burn their wings and themſelves; theſe are
+the true preiſts of <hi>Baal,</hi> for they do Baul to the purpoſe; in
+breif, becauſe they are not puniſhed, they think they are not puniſhable;
+they intrench upon all mens juriſdi<g ref="char:EOLhyphen"/>ctions<pb n="9" facs="tcp:168161:5"/>and ſo they are
+not hurt, care not what hurt they do: They can not endure Gods word, becauſe
+it deſcribes theſe filthy dreamers, who creep into widdows houſes, and
+lead about ſilly women loaden with divers luſts, ſpeaking ill of
+dignities, uſing Religion but for a Cloake of their malicious deſigns; in a
+word they are the true Frogs of <hi>Egypt,</hi> croaking and crawling in all
+places, and except the ſooner removed, will defile this whole Land and make
+it ſtinck, yet further,</p>
+            </div>
+            <div type="section">
+               <head>5. THEIR PROPHANES AND <g ref="char:V">Ʋ</g>NCLEANES.</head>
+               <p>IT is regiſtred of one of the Emperours that while he was
+baptized, he defiled the Fount with his Excrement, and twas ſaid, he would
+prove an Enemy to Chriſtians, and ſo it came to paſſe, ſo hee had his
+name <hi>Copronymus,</hi> but theſe unclean prophane <hi>Eſaus</hi> brood,
+have not only defiled the place of their Baptiſme, but eſteem it in it
+ſelfe an <hi>
+                     <g ref="char:V">Ʋ</g>nclean, <g ref="char:V">Ʋ</g>nholy thing;</hi> they not only not reſpect
+<hi>Perſons, Times,</hi> or <hi>Places;</hi> but <hi>Deſpiſe</hi> the
+<hi>One,</hi> preſume to <hi>Alter</hi> the other, and <hi>Overthrow</hi> the
+third: They think they may pull <hi>Down the Houſes of God that be in the
+Land,</hi> becauſe Papiſts have prayed in them, and rob them of all their
+means, pretending themſelves of <hi>Iſrael,</hi> and all others of
+<hi>Egypt, <g ref="char:V">Ʋ</g>zza</hi> was puniſhed ſeverely for but touching the Arke to
+bold it up with his hand, but theſe imploy their hands to overthrow it, they
+ſay of our <hi>Churches,</hi> as the Children of <hi>Edom</hi> did of
+<hi>Jeruſalem,</hi> Pſal. 137. <hi>Downe with them, down with them even to
+the ground,</hi> they love not thoſe that are <hi>Tryers of Ministers,</hi>
+becauſe they keep an <hi>Order</hi> in the <hi>Worſhip</hi> of
+<hi>God,</hi> theſe love no <hi>Order,</hi> and therefore Revile; there is
+not the ſtricteſt tye or bond that <hi>God</hi> hath layd on man to
+<hi>performe,</hi> but they ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive
+to <hi>vi<g ref="char:EOLhyphen"/>olate</hi> it; turning <hi>The Grace of God into
+wantonneſſe,,</hi> for the Sabboth, they hold it <hi>Jewiſh</hi> and
+<hi>Ceremoniall,</hi> as for the <hi>Sacraments,</hi> they are ſo
+<hi>Myſterious,</hi> that they ſlight them, for <hi>Honour</hi> to Parents,
+they ac<g ref="char:EOLhyphen"/>knowledge it not, and for <hi>Marriage</hi> they hold all in
+<hi>Common,</hi> they ſeem to hate all <hi>Encloſures</hi> and
+<hi>Paſtures,</hi> for they would lay all open, for the Scriptures, the Holy
+word of God, they ſay with the Papiſts, tis a <hi>Dead Letter</hi> in it
+ſelfe, and that it receives all the <hi>Vigour</hi> by their
+<hi>
+                     <g ref="char:V">Ʋ</g>nlearned,</hi> and <hi>Preſumptious Tautologicall Empty</hi>
+In<g ref="char:EOLhyphen"/>terpretations, nay indeed go further then ſo, for they hold their ſudden
+<hi>Inſpirations</hi> and <hi>Enthuſiaſmes</hi> and <hi>Dreames</hi> and
+<hi>Raptures,</hi> to excell <hi>Them</hi> for worth, they ſay clean contrary
+to what <hi>Peter</hi> heard ſpoke to him, <hi>what God hath cleanſed, call
+thou not unclean,</hi> but theſe count thoſe <hi>things,<pb n="10" facs="tcp:168161:6"/>Perſons</hi> and <hi>Ordinance,</hi> which God hath ſet apart to be
+unfit for <hi>
+                     <g ref="char:V">Ʋ</g>ſe,</hi> and therefore deſpiſe them, theſe are like
+<hi>Flyes</hi> in the <hi>Oyntment, defile</hi> it: they account all men
+unclean but themſelves, and therefore cry out, <hi>Touch</hi> not,
+<hi>Stand</hi> off further, for <hi>I am holyer then Thou;</hi> to conclude
+this point; its wiſhed they were farther gon, for they are as <hi>black</hi>
+as <hi>Pitch,</hi> and he that toucheth them ſhall be ſure to be
+defiled.</p>
+            </div>
+            <div type="section">
+               <head>7. THEIR DISSIM<g ref="char:V">Ʋ</g>LATION, ENVY, AND <g ref="char:V">Ʋ</g>NCHARITABLENES.</head>
+               <p>Theſe three ſhall be handled together, as they practiſe
+them, and as they uſually are link'd together; their
+<hi>Diſſimulation</hi> precedes, for they may ſay of that as the Silver
+ſmiths at <hi>Epheſus,</hi> did of their <hi>Shrines, You know how that by
+this we get our living,</hi> if the <hi>Fox</hi> did not wear the <hi>Lambs
+skin,</hi> he would not be ſo ſoon diſcovered, their words are as
+<hi>Smooth as oyle, and yet they be very ſwords,</hi> they are like
+<hi>Sodoms</hi> Grapes, ſeem fair but taſt deadly, like <hi>Pilate</hi>
+waſhing his hands, yet condemning <hi>Chriſt,</hi> or not unlike to
+<hi>Judas,</hi> who kiſt his Maſter but withal betrayed him, with
+<hi>Joab</hi> ſpeaking freindly, but wounding deadly: What are all their
+<hi>For<g ref="char:EOLhyphen"/>mall</hi> ſhowes, but meer <hi>Hypocriſie?</hi> their long
+Teachings of ſix or eight houres <hi>Babling</hi> but devouring
+<hi>Houſes</hi> and leading about ſimple women, and this is too commonly
+known: what are their outward <hi>Pilgrimages</hi> in our ſtreets, their
+<hi>Wandrings</hi> into the Countryes to cauſe the light, as they ſay, to
+come amongſt the country people, the crying down all prea<g ref="char:EOLhyphen"/>ching but their
+own? and as they are <hi>Counterfeit,</hi> ſo they are <hi>Envious,</hi>
+greive that any man hath <hi>Light</hi> truer then theirs, their main aim is to
+put down the <hi>Law</hi> and the <hi>Goſpel,</hi> the <hi>Magiſtrate</hi>
+and the <hi>Miniſtry,</hi> if theſe go <hi>Down,</hi> then hey <hi>
+                     <g ref="char:V">Ʋ</g>p go
+they</hi> ah; they are like <hi>Eſops</hi> dog, lye in the Manger, and will
+not let the horſe eat Provender, though them<g ref="char:EOLhyphen"/>ſelves cannot, ſo theſe,
+though they <hi>cannot</hi> nor <hi>Will</hi> feed ſoules, yet they
+inveterately hate <hi>thoſe</hi> that <hi>do,</hi> their <hi>Envy</hi> tis
+thought is the cauſe that all, or the moſt of them are ſuch <hi>Meagre
+Carcaſes,</hi> and ſuch <hi>Yellow tan'd Skellitons</hi> appearing more
+like <hi>Haggs and Hobgoblings,</hi> then <hi>Men</hi> or <hi>Mo<g ref="char:EOLhyphen"/>deſt
+women,</hi> they are not unlike thoſe men that <hi>were poſſeſſed
+with Devils</hi> who lived in the <hi>Feilds</hi> and <hi>Mountaines,</hi> and
+<hi>Graves,</hi> ſo that none could paſſe by that way without fear of
+danger, theſe choſe <hi>ſolitary</hi> and <hi>waſt</hi> places at
+firſt in the <hi>Woods, Feilds,</hi> and <hi>Mountaines,</hi> but now they
+are ſo impudent they have their <hi>Kennells</hi> in the greateſt
+<hi>Cities</hi> and <hi>Townes,</hi> they are very unfit to be <hi>Judges,</hi>
+for if their <hi>Power</hi> was according to<pb n="11" facs="tcp:168161:6"/>their
+<hi>Will,</hi> they would empty the Earth of men and weomen, and ſend them to
+<hi>Hell</hi> in a croud, their monthes are full of <hi>Curſing,</hi> that it
+is thought, they are not under a <hi>Bleſſing,</hi> and they are ſo
+<hi>
+                     <g ref="char:V">Ʋ</g>ncharitable</hi> that they envy that God is ſo <hi>Patient</hi> and
+<hi>mercifull,</hi> their prayers are rather that fire may come down from
+Heaven and conſume us, rather then that the Sun ſhould ſhine to warm and
+refreſh us, they ſay we are all in the dark, but they rather deſire all
+men were <hi>Blind: Nero</hi> wiſh'd that all <hi>Rome</hi> had but
+<hi>One</hi> head, that he might at one blow ſtrike it <hi>Off,</hi> but
+theſe cannot endure that we ſhould have any <hi>Head</hi> at all, and that
+makes them ſo <hi>Sourly</hi> and <hi>Maliciouſly</hi> to revile and rail
+againſt our <hi>Head</hi> the publick <hi>Magiſtrates,</hi> they are ſo
+far from praying for them, that like <hi>Foxes</hi> they would ſain
+<hi>Prey</hi> upon them: they are for certain out of Charity with their
+<hi>Auditory,</hi> or elſe they would <hi>Bleſſe</hi> them at parting;
+but theſe <hi>Snarle</hi> at, and bite them in their whole
+<hi>Exerciſe,</hi> and there<g ref="char:EOLhyphen"/>fore tis a <hi>Witty</hi> and a true Proverb,
+<hi>When the Fox preanes beware the geeſe:</hi> whom they cannot
+<hi>Allure,</hi> they <hi>Envy</hi> and <hi>Hate;</hi> and becauſe they gain
+but a few, they muſt needs <hi>hate</hi> the <hi>more;</hi> they are Enemies
+to <hi>Almeſ<g ref="char:EOLhyphen"/>houſes, Schools,</hi> and <hi>Colledges,</hi> they hate the
+<hi>Firſt,</hi> becauſe founded upon <hi>Charity,</hi> and the <hi>Two</hi>
+later becauſe they <hi>Breed</hi> up, and are <hi>Nurſe<g ref="char:EOLhyphen"/>ries</hi> for
+learned <hi>Schollars, Judges</hi> and <hi>Magiſtrates,</hi> all which are
+<hi>Eye<g ref="char:EOLhyphen"/>fores</hi> to their unlawfull aſſemblies, of which it may truly be
+ſaid, <hi>My Soul come not into their aſſemblies for in their fury the
+kild a man and dig'd through a wall,</hi> and for certain their fury is great,
+both in and out of their Meetings againſt a <hi>Man,</hi> againſt
+<hi>Authority,</hi> and lawfull <hi>Magiſtracy,</hi> and therefore they do
+like <hi>Foxes, dig down</hi> &amp; through all <hi>Fundamentall Lawes and
+Civill Policie and Societies,</hi> which are the <hi>Walls</hi> of our
+<hi>Happy Subſi<g ref="char:EOLhyphen"/>ſtence,</hi> and we are all bovnd to pray that God would
+keep out theſe <hi>Ver<g ref="char:EOLhyphen"/>mine</hi> called <hi>Quakers</hi> from
+<hi>digging</hi> down theſe <hi>Walls,</hi> theſe <hi>Foundations,</hi> but
+we hope they are deeper layd than to be <hi>
+                     <g ref="char:V">Ʋ</g>ndermin'd,</hi> and higher
+<hi>built</hi> then to be <hi>leapt</hi> over by theſe <hi>Inſulting,
+Preſumptuous</hi> Company of <hi>Fox<g ref="char:EOLhyphen"/>es, For if the Foundations be cast down,
+what ſhall the Righteous do?</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>8. THEIR IGNORANCE.</head>
+               <p>ANd in this particular they do not only <hi>Equall</hi> but
+<hi>outstrip</hi> the very <hi>Papiſts,</hi> for they hold only, <hi>That
+Ignorance is the Mother of Devoti<g ref="char:EOLhyphen"/>on,</hi> yet they debar not
+<hi>Knowledge</hi> from their <hi>Preists,</hi> but theſe as well
+<hi>Speakers</hi> as <hi>Hearers,</hi> exclude <hi>All Knowledge</hi> and
+condemn it, ſure they are no kin to <hi>Egyptians,</hi> for they were
+fearfull at their three days<pb n="12" facs="tcp:168161:7"/>Darkneſſe, theſe
+<hi>applaud</hi> it. they have ſome affinity to <hi>Bats Night Ra<g ref="char:EOLhyphen"/>vens,</hi>
+and <hi>Owles,</hi> for they love <hi>Night</hi> better then <hi>Day,</hi> ſo
+theſe <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> rather then <hi>Light:</hi> They are not of
+<hi>Salomons</hi> mind, for he prayed for <hi>Wiſdome</hi> and
+<hi>Knowledge</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nderstanding;</hi> but theſe prate and preach
+againſt <hi>It:</hi> They cannot endure any <hi>Schoolmaſters,</hi>
+becauſe they <hi>Whip</hi> their <hi>Diſciples</hi> for their
+<hi>Ignorance,</hi> they are utter Enemies to the ſociety of
+<hi>Almanack</hi> Makers; becauſe they diſcourſe only of the
+<hi>Starrs,</hi> and the <hi>Heavens:</hi> And theſe never intend to trouble
+that place. They praiſe <hi>Greenland</hi> to be a very gallant Country,
+becauſe ther is more <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> than <hi>Light,</hi> and there<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good ſtore of their fellow Creatures,
+they live there as <hi>Bears</hi> and <hi>Foxes</hi> may go together, tis
+reported they intend to plant there, only they doubt the <hi>Bears,</hi> as the
+better Creatures will not yeild them <hi>Poſſeſſion,</hi> tis thought
+its high time for them to be gon, for they have playd ſuch
+<hi>Fox-tricks</hi> here, that our Country is weary of them, they hold that
+place of Scripture to be <hi>Apochypha, My Son, get Knowledge, and above all
+get <g ref="char:V">Ʋ</g>nderſtanding,</hi> they regard not knowledge becauſe the Apoſtle
+<hi>Paul</hi> ſayes, <hi>Knowledge puffs up,</hi> They applaud that for an
+excellent ſentence of <hi>Agrippa</hi> unto <hi>Paul, Too much Learning hath
+made thee mad,</hi> and yet theſe are mad &amp; yet without learning: they
+care not for that place of Scripture, which ſayes, <hi>If the blind lead the
+blind they both fall into the ditch,</hi> and becauſe the Scriptures do ſo
+much ſpeak againſt <hi>Ignorance,</hi> the ſpeak as much againſt
+<hi>Them,</hi> yet as ignorant as they be, they <hi>preſume</hi> to
+<hi>Teach</hi> the learned and greateſt <hi>Magiſtrates,</hi> who <hi>ſo
+bold as blind Byard,</hi> to conclude theſe, ſurely they were bred neere
+<hi>Dunſtable,</hi> they are the <hi>Snuffers</hi> againſt Magiſtracy,
+they cannot endure to hear of the <hi>Schooles</hi> of the <hi>Prophets,</hi>
+they are like <hi>Naaſh</hi> the <hi>Ammonite</hi> deſire to put out the
+<hi>Eyes</hi> of all <hi>Iſrael,</hi> they are clean contrary to <hi>God</hi>
+and <hi>Good</hi> men, for <hi>God,</hi> is <hi>Light,</hi> and his
+<hi>Chrildren</hi> are of the <hi>Light,</hi> theſe love <hi>Ignorance</hi>
+and affect <hi>Darkneſſe,</hi> but to proceed to the next; and that is.</p>
+            </div>
+            <div type="section">
+               <head>9. THEIR BEHAVIO<g ref="char:V">Ʋ</g>RS, GEST<g ref="char:V">Ʋ</g>RES, AYMES, AND ENDS.</head>
+               <p>THeſe four particulars are fitting to be diſcovered, not any
+waies to uphold them, but to ſet them open to the view of the world: theſe
+<hi>Characters</hi> ſhew their <hi>Nature, Diſpoſition,</hi> and
+<hi>Intention,</hi> their <hi>Behavi<g ref="char:EOLhyphen"/>ours</hi> are for the moſt part
+according to their <hi>Breeding, Education</hi> is re<g ref="char:EOLhyphen"/>puted a ſecond
+<hi>Nature,</hi> and hath a ſtrong <hi>Influence</hi> upon the whole Courſe
+of the <hi>After-life,</hi> hereupon it ought to be the care of
+<hi>Parents</hi> to<pb n="13" facs="tcp:168161:7"/>give <hi>Virtuous</hi> Education to their
+Children, it being for a <hi>Foundation</hi> to all their future
+<hi>Actions</hi> either for <hi>Honesty, Justice Civility, or Worth;</hi> or on
+the contrrry for <hi>In uſtice, Incivility, Diſhoneſty</hi> or
+baſeneſſe.</p>
+               <p>It plainly may, and doth appear, that theſe perſons either
+never had <hi>It</hi> beſtowed on them, or elſe they have ſtrangely
+<hi>Degenerated</hi> from thoſe formerly received <hi>Principles,</hi> and
+ſo uſually ſuch parties, prove <hi>Prodigi<g ref="char:EOLhyphen"/>ous</hi> and
+<hi>Monſtruous,</hi> or <hi>Dangerous</hi> and unhappy to
+<hi>themſelves,</hi> and the <hi>Common Wealth,</hi> wherein they had their
+firſt <hi>breath.</hi>
+               </p>
+               <p>To our purpoſe, We know not much of their <hi>Extraction,</hi>
+nor do ac<g ref="char:EOLhyphen"/>cuſe their <hi>Parents</hi> as careleſſe of their duties in
+this particular, yet ſo much, we can ſafely ſay, that if <hi>Fortes
+creantur à fortibus, Eagles</hi> get <hi>Eagles,</hi> not <hi>Buzzards,
+Owles</hi> or <hi>Jack-Dawes,</hi> ſo <hi>Lyons</hi> bring forth
+<hi>Lyons</hi> not <hi>Foxes Hogs</hi> and <hi>Doggs,</hi> for certain theſe
+are either <hi>Metamorphoſed</hi> or elce their Progenitors were <hi>Ignoble,
+Vicious,</hi> and <hi>Sordid,</hi> ſor to take a ſhort view of their
+perſons.</p>
+               <p>Firſt, They want <hi>Learning</hi> even to that degree, that
+moſt of them know not the very <hi>Elements, Rudiments</hi> or firſt
+beginnings of it, hence it comes to paſſe, that univerſally they cry down
+all <hi>Learning</hi> and lear<g ref="char:EOLhyphen"/>ned <hi>men;</hi> for certain they muſt needs
+be poor Creatures who are alto<g ref="char:EOLhyphen"/>gether deſtitute of ſuch a worthy
+<hi>Jewell,</hi> which indeed is the prime <hi>Or<g ref="char:EOLhyphen"/>nament</hi> of the
+<hi>Soule,</hi> and enables and furniſhes it generally for any
+<hi>Vir<g ref="char:EOLhyphen"/>tuous</hi> or <hi>worthy imployment,</hi> ſo that they are ſent out
+into the wold emp<g ref="char:EOLhyphen"/>ty and lame.</p>
+               <p>Secondly, They want <hi>Calling,</hi> for the moſt part we
+know it that ma<g ref="char:EOLhyphen"/>ny of them never were brought up to a <hi>Calling,</hi> a
+groſſe fault in thoſe that had, and undertook the <hi>Steerage of their
+youth, Train up ſaies</hi> Salomon, <hi>a child in his way,</hi> i. e.
+<hi>his Calling, in his youth, and he will not forget it when he is old:</hi>
+But where theres <hi>no</hi> trayning up in a <hi>Calling</hi> in a
+<hi>Way,</hi> in <hi>youth,</hi> tis no marvell they <hi>Wander</hi> without a
+<hi>Way</hi> (any <hi>good way</hi>) all the reſt of their life: er elce, if
+though they had a <hi>Calling,</hi> they left it and forſook it through want
+of <hi>good</hi> adviſe, or <hi>Foreſight, Diſtemper Diſcontent</hi> or
+too much <hi>Severity</hi> and <hi>Rigour</hi> of their Maſters, which are
+all miſerable <hi>Preſages</hi> of future <hi>Calamity;</hi> and
+<hi>deſperate,</hi> if not <hi>Ruinous</hi> events: Now if the the fault be
+in the <hi>Maſters,</hi> they may have ſome <hi>Plea,</hi> but little
+<hi>Help,</hi> but if it proceed from themſelves, ſcarce (upon ſome or
+any of the fore mentioned Acts) is <hi>Excuſable,</hi> much leſſe
+<hi>Allowable,</hi> ſuch men (if yet worthy that name) put themſelves not
+only out of the way but out of Gods <hi>Ordinary</hi> and <hi>uſuall</hi> way
+of <hi>Protection</hi>) <hi>Hee ſhall keepe thee in all thy waies,</hi> but
+he that puts himſelf out of the way of his <hi>Cal<g ref="char:EOLhyphen"/>ling,</hi> 
+                  <pb n="14" facs="tcp:168161:8"/>expoſes himſelf to all dangers, as being out of Gods
+<hi>Cuſtody</hi> and <hi>Tuition.</hi>
+               </p>
+               <p>It is certaily known that theſe perſons do not abide in a
+calling, not follow it <hi>Powerfully</hi> nor <hi>Subordinately;</hi>
+eſpecially ſince they <hi>thruſt</hi> them<g ref="char:EOLhyphen"/>ſelves into this
+<hi>Extravagant</hi> courſe of <hi>Teaching,</hi> by pretended
+<hi>Inſpirati<g ref="char:EOLhyphen"/>on:</hi> and many of them through <hi>Diſtemper</hi> by
+<hi>lewd irregular</hi> Carriage, burſt out into ill <hi>Husbandry,</hi> and
+laviſh <hi>Spendings,</hi> and at laſt turned <hi>Deſperates</hi> not
+knowing where to pitch or ſteer aright, and ſo ever ſince have been
+<hi>Erratick</hi> and wandring <hi>Planets.</hi>
+               </p>
+               <p>Thirdly, They want <hi>Competency</hi> of meanes cauſed
+principally by be<g ref="char:EOLhyphen"/>ing out of <hi>Imployment,</hi> or <hi>Poverty</hi> of
+<hi>Parents,</hi> and this affliction, if it fals upon a <hi>Cholerick</hi>
+ſtubborne Nature, one that affects <hi>Liberty</hi> and <hi>Licenſe</hi>
+without controule, workes <hi>Strongly</hi> and <hi>ſtrangely,</hi> and
+forces them into all <hi>Idle, unlawfull uncivill</hi> or <hi>unhoneſt</hi>
+actions.</p>
+               <p>Fourthly, Want of <hi>Regularity,</hi> and due <hi>Temper</hi>
+of <hi>Spirit,</hi> not know<g ref="char:EOLhyphen"/>ing either how to ſhun <hi>Poverty,</hi> when it
+falls, nor be contented with or under it being layd upon them; nor taking
+<hi>Care,</hi> nor uſing <hi>Lawfull</hi> means to get <hi>out</hi> of
+<hi>it,</hi> and of this <hi>Condition</hi> many of thoſe perſons are,
+<hi>They know not of what Spirits they are.</hi>
+               </p>
+               <p>Fifthly want of <hi>Grounds</hi> and <hi>Principles</hi> of
+<hi>Religion; ſcorning</hi> or not <hi>earing</hi> to hear the <hi>Word</hi>
+preached by the publick <hi>Miniſters,</hi> and ſo not having the <hi>Fear
+of God before their eyes at all,</hi> or not <hi>ſo much,</hi> as they ought:
+they go <hi>aſtray as ſoon as they are born and ſpeak lies,</hi> as the
+Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> ſayes.</p>
+               <p>Sixthly, Many of them have been <hi>Profeſſors</hi>
+formerly, but by <hi>conten<g ref="char:EOLhyphen"/>tion</hi> and <hi>baughtineſſe</hi> of Spirit,
+and for want of <hi>Aſſiſting</hi> grace and <hi>Hu<g ref="char:EOLhyphen"/>mility,</hi> fall
+off, and ſo ſet up this Trade of <hi>Batiologie</hi> and <hi>Vaine
+Bab<g ref="char:EOLhyphen"/>ling.</hi>
+               </p>
+               <p>Seventhly, Hope of <hi>Gaines</hi> and <hi>Outward</hi> credit
+amongſt men, to be accounted ſome what <hi>Excellent,</hi> or <hi>Envy</hi>
+to the Preachers by <hi>Law</hi> eſtab<g ref="char:EOLhyphen"/>liſhed, theſe are as
+<hi>Pullyes</hi> to draw them in, and <hi>Spurs</hi> to ſet them
+for<g ref="char:EOLhyphen"/>ward,</p>
+               <p>To theſe many others might be added, but theſe are
+ſufficient to cauſe their Behaviour to be either toward <hi>God</hi> or
+<hi>Man unreverent, undecent, uncivill, unnaturall, God having justly given
+them up to their own hearts luſts to work all wie<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ednes even with greedines,</hi> hence
+at any meeting they carry not themſelves in an ordinary affable way amongſt
+their <hi>Equalls,</hi> hence they ſco ne their <hi>Superiours,</hi> and
+truly give no man his <hi>Due:</hi> but <hi>ſuperciliouſly</hi> and
+<hi>vaingloriouſly</hi> or <hi>ſtubbornly</hi> and <hi>ſurly,</hi> and
+<hi>irregularly,</hi> 
+                  <pb n="15" facs="tcp:168161:8"/>they
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear themſelves:
+<hi>ſlighting</hi> or not regarding perſons of their <hi>neer<g ref="char:EOLhyphen"/>eſt</hi>
+naturall <hi>Relation</hi> in their <hi>Comportment</hi> ſhowes their
+<hi>Looſe</hi> and extrava<g ref="char:EOLhyphen"/>gant <hi>breeding;</hi> ſo that their unmannerly
+and uncivill carriage to all ſorts of people proceeds from a <hi>double</hi>
+cauſe: from want of <hi>Civill</hi> and <hi>Morall Education;</hi> and from a
+<hi>proud, affected, Supercilious, vain</hi> Conceit of their <hi>ſublime
+gifts, excellent</hi> qualities, &amp; <hi>Divine</hi> inſpirations: And ſo
+judging all others inferiour to <hi>themſelves,</hi> and indeed holding
+others not fit for their <hi>ſanctified ſocieties</hi> (as they pretend)
+herupon many can witnes that at the ſign of the <hi>Mouth,</hi> two Gentlemen
+of good quality after their <hi>Long<g ref="char:EOLhyphen"/>winded</hi> exerciſe was ended, came in
+a civill and curteous comportment, to, two of their <hi>ſhee</hi>
+Diſciples, who during <hi>Foxes Rambling,</hi> and confuſed
+<hi>Babling,</hi> were taken with their <hi>Whyning yelping puppy-like
+Phrenſical</hi> fits; and the Gentlemen very civilly came and asked them,
+whether they were <hi>ill?</hi> or whether they were crouded to <hi>much?</hi>
+or what reaſon they had for ſo doing? and proteſted ſeriouſly to
+thoſe two Femalls, that they deſired to be informed not out of
+<hi>Curioſity,</hi> but for <hi>Satisf<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction;</hi> they two ſtood ſtaring in the Gentlemens faces a
+good pretty while, and ſpoke not to them at all, the Gentlemen humbly
+deſired them the ſecond time to be pleaſed to <hi>inform</hi> them
+concerning theſe <hi>particulars;</hi> they both here<g ref="char:EOLhyphen"/>upon in a
+<hi>furious</hi> and <hi>Hag-like</hi> rage and paſſion belch'd out of
+their un<g ref="char:EOLhyphen"/>clean <hi>Mouthes,</hi> theſe <hi>direfull</hi> curſes and
+Execrations againſt thoſe two men and others that ſtood by, you are both
+<hi>Damned wretches, you are ſtraw and ſtubble hay and droſſe,</hi> and
+are good for nothing but <hi>Hell fire,</hi> which ſhall <hi>Conſume</hi>
+you, another ſtanding by, and hearing ſuch <hi>violent</hi> expreſſions
+come from them, told them they did not well to condemne any man, and that their
+judgment was unjuſt, the women turned ſud<g ref="char:EOLhyphen"/>denly to him, and ſayd that he
+was no other then a <hi>Fire-brand of Hell</hi> as well as the other, and that
+their time of burning was not far off, and being asked, how they know that,
+they replyed furiouſly again, <hi>they were com<g ref="char:EOLhyphen"/>manded to tell them of
+it,</hi> this was their deportment to men of modeſt and calme ſpirits, who
+proteſted afterward that they could not have beleived they had been ſuch
+angry and violent people; and that they deſired no<g ref="char:EOLhyphen"/>thing, but would fain have
+been <hi>ſatisfied</hi> about their <hi>Whining</hi> and <hi>ſtrange
+yelping,</hi> ſo boldly impudent they are and laviſh in their exerciſe,
+that though they belch out <hi>Blaſphemy, Hereſie, Non-ſence,
+Contradiction, Abſurdities, <g ref="char:V">Ʋ</g>ntruths, Lyes, Slanders, Revilings</hi>
+againſt <hi>God</hi> and <hi>Christ,</hi> the <hi>Scriptures,
+Magiſtrates</hi> (the high<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt
+not exempted) and <hi>Miniſters</hi> yet, when as they are told of it, though
+by judicious able men yet they ſhall have no better entertainment, then to be
+judged, and <pb n="16" facs="tcp:168161:9"/>forthwith cond<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mned to <hi>Hell flames</hi> and torments, as though <hi>They</hi>
+had the <hi>keeping of the keyes</hi> of the <hi>Grave</hi> and <hi>Hell;</hi>
+had power to <hi>Bind</hi> or <hi>Lo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> at their pleaſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e
+any, whom they ſhall like or diſlike, they have (as they affirm) ſuch a
+purity that God ſees no ſin in them, nay they do not acknowledge
+themſelues <hi>Sinners,</hi> but <hi>Purged, enlightned, perfected</hi> ſo,
+that <hi>all</hi> corruption and ſin is ſubdued in them; hence they take
+Liberty to <hi>uſe</hi> or <hi>abuſe</hi> the creatures amongſt
+themſelves, and imagine <hi>Communi<g ref="char:EOLhyphen"/>ty of women,</hi> though againſt the
+Lawes of <hi>God</hi> and the <hi>Land,</hi> to be not only not a ſin but
+allowable, and therefore they ſo licenciouſly practiſe it. Should all
+their <hi>Actions</hi> and behaviours ſo <hi>irreligious</hi> and
+<hi>prophane,</hi> ſo <hi>obſcence</hi> and <hi>uncomely</hi> be ſet
+down, t'would ſwell into a large ſtory, but indeed they are for the moſt
+part ſo ſtrange and unnaturall, that it is not fitting for a modeſt pen
+to write them, nor a chaſt Nature to read them, next followes.</p>
+            </div>
+            <div type="section">
+               <head>THEIR GEST<g ref="char:V">Ʋ</g>RES,</head>
+               <p>THeſe are ſo <hi>Antick</hi> and <hi>Apiſh</hi> abroad,
+that the very Children deride and abhor them, as they <hi>range</hi> rudely
+through the very ſtreets at noon day <hi>naked.</hi> So they practiſed in
+the Countries in <hi>Yorkſhire, Lanca<g ref="char:EOLhyphen"/>ſhire, Cheſhire</hi> and elſe
+where, even <hi>Women</hi> caſting away all <hi>Modeſty</hi> of of their
+ſexe, as well in the day time as in the night accompany with <hi>men,</hi>
+with <hi>strangers</hi> not their own <hi>Husbands,</hi> but theſe regard not
+the ſolemn <hi>tyes</hi> or bonds of <hi>Marriage,</hi> but are broke out
+into all <hi>ſhameleſſe</hi> and un<g ref="char:EOLhyphen"/>paralel'd <hi>Beſtiality:</hi>
+Though moſt of them be ſcarce able to get rich and coſtly apparell, yet
+ſuch as they have formerly uſed, they now caſt off, they <hi>eat</hi> and
+<hi>drink</hi> promiſcuouſly without rendring any thanks to God, before or
+after the receipt of their diet: they are ſo clean (as they pre<g ref="char:EOLhyphen"/>tend) that
+they need no waſhing, and therefore it may truly be ſayd of them, that as
+they are no <hi>Scribes,</hi> ſo they are not <hi>Phariſees,</hi> for they
+<hi>waſhed</hi> oftner in a day, then theſe in ſix; the
+<hi>Phariſees</hi> prayed often, (theſe as thinking themſelues not bound
+to <hi>Duties</hi> of that <hi>inferiour</hi> rank) uſe it not: Their
+geſtures in the time of their publick <hi>tumultuous</hi> Meetings are
+<hi>various</hi> and <hi>ſtrange,</hi> ſometimes <hi>ſtanding,</hi>
+ſometimes <hi>ſitting,</hi> ſometimes <hi>tumbling, wallowing</hi> from
+one ſide to another, <hi>lying</hi> on their <hi>bellies,</hi> ſom<g ref="char:EOLhyphen"/>times on
+their <hi>backs:</hi> never <hi>kneeling,</hi> ſhaking their hands as though
+troub<g ref="char:EOLhyphen"/>led with a deep <hi>Palſey;</hi> ſtrangely <hi>Caſting up</hi> and
+diſtorting their <hi>Eyes,</hi> and <hi>wreathing</hi> their Mouthes, lying
+as <hi>dead</hi> as in a Tra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce or
+a <hi>Swoune,</hi> ſtrangely <hi>whining, ſqealing, yawling, groaning,
+foa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing,</hi> at mouth, as
+<pb n="17" facs="tcp:168161:9"/>troubled with the <hi>Falling ſickneſſe,</hi> and
+their Leader and Cheif Spea<g ref="char:EOLhyphen"/>ker, that nimble <hi>Mercurialiſt Fox,</hi> who
+hath run up and down divers countries and deluded ſundry people under
+ſeveral <hi>ſhapes</hi> and <hi>Habits</hi> and <hi>forms,</hi> now come to
+<hi>London</hi> weares a <hi>buſh,</hi> a <hi>long buſh of Hair</hi> by his
+<hi>Ears</hi> like a Fox <hi>tayle,</hi> which he ſtrokes often and playes
+with and ſports with it, as a <hi>Fox</hi> doth with his tayle, to the
+<hi>Merri<g ref="char:EOLhyphen"/>ment</hi> and laughter of the ſpectators, and this done with ſuch
+<hi>Confi<g ref="char:EOLhyphen"/>dence</hi> and impudence, tis not to be beleived till ſeen.</p>
+               <p>The <hi>Rainbow</hi> hath not more <hi>Colours</hi> then theſe
+Creatures varie<g ref="char:EOLhyphen"/>ty of <hi>ſhapes, habits, formes, geſtures,</hi> ſurely
+they never were bred in <hi>Spain,</hi> for they never alter their
+<hi>Faſtion:</hi> but they may be thought to be <hi>French,</hi> alwaies
+changing their <hi>Habits,</hi> and varying their <hi>Po<g ref="char:EOLhyphen"/>ſtures,</hi> they
+are like to <hi>Weather-Cocks,</hi> alwaies turning with the <hi>Wind,</hi> it
+would puzzle an expert <hi>Limner</hi> to ſet them forth in their
+<hi>Colours,</hi> except he uſed all <hi>colours,</hi> in a word, they are
+like a <hi>Wind<g ref="char:EOLhyphen"/>mill</hi> and a <hi>Womans fancy,</hi> all upon
+<hi>Alteration.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>THEIR AYMES AND ENDS.</head>
+               <p>WEe are now come to the laſt deſcription of theſe
+Land-<hi>Cha<g ref="char:EOLhyphen"/>melions,</hi> what they intend and aim at, the <hi>Butt</hi> they
+ſhoot at, and thats as unjuſt as any of their preceding actions, did they
+lay down a good end, they might be the better born withall; though they did
+fail in ſome particulars to attain it: but their drift and ſcope as the
+means by which they uſe to accompliſh it, we compriſe in the ſe four
+heads.</p>
+               <p>Firſt, <hi>Sedition</hi> in the State; and ſo conſequently
+ſubverſion of Government.</p>
+               <p>Secondly, <hi>Enriching</hi> themſelves and to gain
+<hi>Credit.</hi>
+               </p>
+               <p>Thirdly, To <hi>Delude</hi> poor ſimple people.</p>
+               <p>Fourthly, To ſow <hi>Diviſion</hi> in <hi>Religion,</hi> and
+to effect their de<g ref="char:EOLhyphen"/>ſignes to the full, they have aſſumed that way and
+profeſſion to them ſelves, that if any deluſion will work: this that
+they profeſſe is the moſt likely. For firſt (they ſay) they
+<hi>come,</hi> and are <hi>ſent immedi<g ref="char:EOLhyphen"/>atly</hi> by God, now this
+<hi>Baite</hi> if once ſwallowed, ſets them up to the purpoſe, for are
+not all <hi>bound</hi> then to obey when <hi>God</hi> commands, and this
+<hi>Exempts</hi> them from puniſhment too, for what <hi>Ingenuous</hi>
+Magiſtrate will oppoſe them, (being as they ſay) <hi>ſent from
+God,</hi> left happily by ſo doing, he may ſeem to <hi>ſtrive againſt
+God,</hi> and<pb n="18" facs="tcp:168161:10"/>what need they now be queſtioned, having
+<hi>gotten allowance</hi> and authority from the Magiſtrate? whom need they
+fear, they may <hi>range</hi> and <hi>raign</hi> as they pleaſe, and then
+ſecondly, if ſent of <hi>God,</hi> and authoriſed by the
+<hi>Magiſtrate,</hi> who will not be ready and willing to aſſiſt them
+with means if they ſow <hi>Spiritualls;</hi> tis not to be que<g ref="char:EOLhyphen"/>ſtioned; but
+they <hi>Will</hi> and <hi>may,</hi> quickly reap <hi>Temporalls? wealth,</hi>
+and <hi>gifts</hi> and <hi>oblations</hi> flow in from all perſons, And
+thirdly, This pretence being adjudged for pure and ſincere, eſpecially
+joyned with <hi>Humility,</hi> and heavenly <hi>Meſſages,</hi> who would
+not forthwith be an <hi>Auditor,</hi> a Proſelite, &amp; a follower? who will
+not be taken with ſuch whom <hi>Heaven</hi> ſends as
+<hi>Ambaſſadors,</hi> and thereupon their <hi>Doctrines</hi> are
+ſwallowed down: People will not let any of their words <hi>fall to the
+ground,</hi> and having now well refreſhed themſelves with <hi>Large
+Bene<g ref="char:EOLhyphen"/>volences</hi> from ſeduced people, who will not <hi>cry up what they
+ſay,</hi> and <hi>cry down</hi> that that they diſprove off, and ſo in
+the conſequence down goes the <hi>ſetled</hi> and <hi>orthodox</hi>
+profeſſors of <hi>Religion</hi> as <hi>Antichri<g ref="char:EOLhyphen"/>ſtian,</hi> and of the
+fourth <hi>Monarchy,</hi> and ſo to be utterly overthrown and caſt down,
+all this is feazible by theſe cunning Artificers: Theſe <hi>Foxes</hi> know
+how to <hi>lye down</hi> and proſtrate <hi>Themſelves</hi> as
+<hi>naturall</hi> Foxes uſually do, when they intend moſt miſcheif with
+<hi>glaring,</hi> with their Eyes caſt up, and <hi>fixt</hi> in their heads
+as if they were dead, and by this ſubtill trick, Foxes get and catch many a
+prey, and theſe uſe ſuch <hi>Arts</hi> to perſwade their Auditors that
+they are mortified, or in a ſpirituall <hi>Trance,</hi> but this is done to
+win <hi>Diſciples,</hi> to their <hi>Lure,</hi> and to perſwade men of
+their <hi>celeſtiall Raptures,</hi> their diſcourſe is broken and half
+diſtracted, cunning inveygling; but certain it is, if they be ſo
+ſhameleſs and impudent in the <hi>day,</hi> in the light, what will they
+not do having oportunity to act in the <hi>Dark,</hi> in the night; they are
+indeed <hi>Monſters</hi> not of <hi>Affrick</hi> but brought up in
+<hi>England,</hi> and whether it be ſafe to give Liberty long to ſuch
+<hi>Foxes,</hi> who would ruin the <hi>State,</hi> overthrow <hi>Religion,</hi>
+ſeduce <hi>People,</hi> and advance <hi>Themſelves</hi> above all others,
+tis left to wiſe and judicious perſons to determine and order. Thus far the
+<hi>Fox</hi> has been hunted with his Litter, ſome more able pen (tis hoped)
+will undertake to follow the Game being now hot in chaſe, and the Foxes out
+at prey, but an end is put to our purſuits at preſent, deſiring that
+others would keep up the Game; and follow the Purſuit with skil and power it
+wilprove both for profit and pleaſure. One ſtep further,</p>
+               <p>
+                  <pb n="19" facs="tcp:168161:10"/>In the laſt place, conſider their
+boldneſs to intrude into places of publick worſhip, to affront, diſturb,
+and out face both the Preacher in his Exerciſe, and the people from hearing,
+notwithſtanding the commands of <hi>Authority,</hi> to the contrary, they are
+like to butchers <hi>flyes</hi> will venture on, though beaten for their
+boldneſs; and where they can ſeize, they preſently taint: they pretend to
+be all <hi>Spi<g ref="char:EOLhyphen"/>rituall,</hi> yet they all love the <hi>Fleſh;</hi> their
+women like not the Apoſtles Injunction, <hi>To learn in ſilence and
+ſubjection;</hi> but theſe thruſt on to be <hi>Teachers,</hi> and
+<hi>Rulers:</hi> they like not Saint <hi>Pauls</hi> ad<g ref="char:EOLhyphen"/>viſe, who would not
+permit <hi>women to ſpeak in publick;</hi> but theſe preſume ſo far,
+even to <hi>Railing</hi> and <hi>Scolding;</hi> there were ſome Se<g ref="char:EOLhyphen"/>ducers in
+old time, of whom tis ſayd, <hi>They crept into houſes;</hi> theſe
+ſcorn to <hi>creep</hi> or <hi>peep,</hi> but impudently <hi>ruſh,</hi> and
+<hi>run</hi> into all places, not to <hi>hear</hi> but to <hi>controul</hi> the
+Preachers Doctrine: women are called houſwives, they ſhould in modeſty
+keep at home; but theſe are <hi>Gadders</hi> and <hi>Rovers</hi> abroad;
+<hi>Salomen</hi> makes it a Demonſtration of a naughty woman, <hi>whoſe
+feet will not ſtay within dores:</hi> What may be thought of theſe then,
+who are <hi>Praters, Buſi-bodies,</hi> and <hi>Wan<g ref="char:EOLhyphen"/>derers,</hi>
+               </p>
+               <p>But their cheif <hi>Virago,</hi> is one who is called <hi>Martha
+Symmonds, Alias</hi> in truth, ſhee is wife to Mr. <hi>Bourn</hi> the
+Aſtronomer in <hi>More<g ref="char:EOLhyphen"/>feilds,</hi> a ſpeciall <hi>Light Saint.</hi> A true
+<hi>Martha</hi> indeed, who cumbers her ſelfe with two much buſineſs of
+other folks matters, who runs and gadds up and down with <hi>Miſſives,</hi>
+and leaves Letters, and ſends them abroad to gain Diſciples; what a
+<hi>bubbub</hi> did ſhe cauſe in <hi>Shor<g ref="char:EOLhyphen"/>dich</hi> Church the laſt Lords
+day, by boldly and impudently talking to, and againſt the Miniſter, till
+ſhee was forc'd away by the Church-Wardens and other Officers, and ſo
+others in other places act their parts ſtubbornly againſt all Rules of
+Modeſty and Civility.</p>
+               <p>Tis beleived by underſtanding people, that they uſe
+<hi>Charmes,</hi> Spells and Jncantations, by tying of <hi>Ribbons</hi> Laces
+Knots, and by giving ſome ſlight preſent, which upon the Receipt hath had
+ſtrange operations upon ſuch as have taken them, ſo that they have been
+as it were poſſeſſed and frantick, and have broken out into ſtrange
+fits, as perſons intoxicated, and have hereupon fallen out with thoſe of
+their neereſt Re<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tion, as Wives
+with their Husbands, and Hus<g ref="char:EOLhyphen"/>bands with their Wives, nud Parents with their
+Children, even to ſuch an high degree, that they have left one the other, and
+have ſold and profuſely laviſhed and given away their Eſtates, even to
+<pb n="20" facs="tcp:168161:11"/>ſtrangers, nay prodigally and unwiſely given away their
+wearing apparrell, and have put themſelves into Antick and Whimſicall
+ha<g ref="char:EOLhyphen"/>bits, even to the ſcorn and deriſion of beholders; nay they have not
+only ſtrangely Metamorphoſed themſelves in their habits, but ſome of
+them have been ſo impudently bold, as to go naked in the publick ſtreets,
+and Market places, though one of them was well tutourd and whip'd into better
+manners, who of late coming through <hi>Smithfeild</hi> amongſt the country
+Carters, who bring hay to town, was ſtopt by a luſty Country fellow, and
+ask'd why he diſgraced him ſelf ſo, the Quacker anſwered, the Lord had
+commanded him to do ſo, to whom the Carter very bluntly replyed, and the Lord
+hath commanded me to whip and laſh you foundly, which with a good Cart whip
+was ſeaſonably performed; if more of them met with ſuch Diſcipline and
+ſuch rough Tutors, it would be a ſure means to force them to a Reformation,
+and to leave off their ſimple <hi>Pilgrimags,</hi> and uncivill
+<hi>Perambulations.</hi>
+               </p>
+               <p>To conclude, Theſe <hi>Engliſh Crocodiles</hi> leave no
+polytick ways untried to work upon <hi>Weak Proſelites,</hi> they prevaile
+moſt upon the femall <hi>Sex,</hi> as knowing the <hi>Woman was firſt
+ſeduced,</hi> and then ſedu<g ref="char:EOLhyphen"/>ced the man, in Summ, they are the
+<hi>Cankerwormes</hi> of <hi>Magiſtracy,</hi> the <hi>Rats-bane</hi> of the
+<hi>Miniſtry,</hi> the <hi>Ruſt</hi> of <hi>Learning,</hi> the
+<hi>Defilers</hi> of <hi>Mo<g ref="char:EOLhyphen"/>deſty,</hi> the <hi>
+                     <g ref="char:V">Ʋ</g>nderminers</hi> of
+<hi>Civi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Society,</hi> the
+<hi>Diſturbers</hi> of <hi>Order,</hi> the <hi>Quickſands</hi> of
+<hi>Government,</hi> the <hi>Fomenters</hi> of all <hi>ſeditious and
+diſor<g ref="char:EOLhyphen"/>derly practiſes.</hi>
+               </p>
+               <p>In a word, they are like <hi>Pharoahs lean</hi> and illfavourd
+kine, are come up here to devoure the <hi>Fat</hi> and the faire ones,
+<hi>Religion,</hi> and <hi>Law:</hi> which if not timely ſtopt in their
+furious carriere, by men in place and authority, may prove the Gulph to ſinke
+all good Or<g ref="char:EOLhyphen"/>ders and Government, in this Common-wealth.</p>
+            </div>
+            <trailer>—Venienti occurrite Morbo.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
